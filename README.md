@@ -15,7 +15,7 @@ Grievance Portal for College, School:school:
 * phpmyadmin: "http://localhost/phpmyadmin/"
 - import "**grievance.sql**" after creating database "**grievance**".
 * Database Name : grievance
-* For Tables import **grievance.sql** after making Database "**grievance**"
+* For Tables import **grievance.sql** in Database "**grievance**"
 ![screenshot 29](https://user-images.githubusercontent.com/28394309/50753084-8c40ab00-1276-11e9-9900-d37f0358a14f.png)
 
 * Now, open it on browser "http://localhost/grievance/index.php". 
