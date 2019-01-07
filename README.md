@@ -1,14 +1,14 @@
 # Grievance_Portal
 Grievance Portal for College, School..
 
-###### Database
+## Database
 
 * Database Name : grievance
 * For Tables import grievance.sql after making Database "grievance"
 ![screenshot 29](https://user-images.githubusercontent.com/28394309/50753084-8c40ab00-1276-11e9-9900-d37f0358a14f.png)
 
 
-###### For using on localserver/ localhost
+### For using on localserver/ localhost
 * Download Files.
 * Install Xampp/Wamp or any Apache server.
 * For Xampp:
