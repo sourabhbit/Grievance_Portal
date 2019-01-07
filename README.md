@@ -4,6 +4,7 @@ Grievance Portal for College, School:school:
 ### For using on localserver/ localhost
 * Download Files.
 * Install Xampp/Wamp or any Apache server.
+  * Install [Xampp](https://www.apachefriends.org/download.html)
 #### For Xampp:
 * After installing. 
 * Put all the files in "C:\xampp\htdocs\grievance". 
