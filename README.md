@@ -1,7 +1,7 @@
 # Grievance_Portal
 Grievance Portal for College, School..
 
-## Database
+### Database
 
 * Database Name : grievance
 * For Tables import grievance.sql after making Database "grievance"
