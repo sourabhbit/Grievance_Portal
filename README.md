@@ -13,7 +13,7 @@ Grievance Portal for College, School:school:
 * Click on Admin of both "Apache and Mysql"
 ![screenshot 30](https://user-images.githubusercontent.com/28394309/50753317-839ca480-1277-11e9-822f-007d398c0031.png)
 
-* phpmyadmin: "http://localhost/phpmyadmin/"
+* _Phpmyadmin_: "http://localhost/phpmyadmin/"
   - import "**grievance.sql**" after creating database "**grievance**".
   * Database Name : grievance
   * For Tables import **grievance.sql** in Database "**grievance**"
