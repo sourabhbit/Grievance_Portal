@@ -1,5 +1,5 @@
 # Grievance_Portal
-Grievance Portal for College, School..
+Grievance Portal for College, School:school:
 
 ### Database
 
@@ -23,3 +23,8 @@ Grievance Portal for College, School..
 - import tables after creating database "grievance".
 
 * Now, open it on browser "http://localhost/grievance/index.php". 
+
+Best Of Luck! :+1: 
+
+:e-mail: kumarsourabh556@gmail.com
+
