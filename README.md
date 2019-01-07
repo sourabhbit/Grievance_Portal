@@ -1,6 +1,12 @@
 # Grievance_Portal
 Grievance Portal for College, School:school:
 
+### Installing
+
+```
+git clone https://github.com/sourabhbit/Grievance_Portal.git
+```
+
 ### For using on localserver/ localhost
 * Download Files.
 * Install Xampp/Wamp or any Apache server.
